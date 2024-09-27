@@ -1,0 +1,5 @@
+{
+    "editor.experimental.asyncTokenizationVerification": false,
+    "editor.maxTokenizationLineLength": 20000000000,
+    "liveServer.settings.port": 5501
+}
